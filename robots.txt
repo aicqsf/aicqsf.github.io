@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+# 站点：最新传奇发布网 https://aicqsf.github.io
+# 每日更新，全站 109 个可索引页面
+Sitemap: https://aicqsf.github.io/sitemap.xml
